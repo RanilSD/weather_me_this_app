@@ -12,3 +12,6 @@ to use this app all you have to do is...
 
 this had been made for functionality purposes.
 if anyone would like to play with the css or javascript inorder to make it more engaging/interactive/pleasuarble by all means feel free to have fun. i will most likely be doing the same later.
+
+link to weather me this
+https://ranilsd.github.io/weather_me_this_app/
